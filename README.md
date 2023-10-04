@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am a first year software engineering student currently studying at the University of Victoria.
+Hello, I am a second year software engineering student currently studying at the University of Victoria.
 <!--
 **JadenAlberding/JadenAlberding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
