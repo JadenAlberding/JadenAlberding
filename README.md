@@ -28,11 +28,11 @@ While Github is a place for code I would also like to share some of my other pas
 
 The following are my current and past projects I am working on:
 
-- Terminal BlackJack using C :spades:
+- Terminal BlackJack using Java :spades:
   - First github personal project
-  - Created Visuals in C by making my own ASCII art for the cards
+  - Created Visuals in Java by making my own ASCII art for the cards
   - Developed the logic based on previous knowledge of the game
-  - Began developing a backend datatbase to save credit data for each player (Still in progress)
+  - Began developing a backend datatbase to save credit data for each player _IN PROGRESS_
 
 - Personal Website using HTML and CSS :open_file_folder: 
   - Began developing a website using HTML and CSS
@@ -48,7 +48,7 @@ The following are my current and past projects I am working on:
   - Began creating a neural network without using libraries to be able to day trade stocks
   - Goals of the project:
     - [X] Complete Neural Network
-    - [ ] Impliment reward system
+    - [ ] Impliment reward system _IN PROGRESS_
     - [X] Create a simultaion
     - [ ] Train model on simulated data
     - [ ] Use API's to recieve real time data
