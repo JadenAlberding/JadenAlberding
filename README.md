@@ -58,8 +58,8 @@ The following are my current and past projects I am working on:
 
 - Swipe Fight using Unity :boxing_glove:
   - A mobile boxing game based on swipe direction inputs and combos from the user
-    - [ ] **Create 3D assets and animations  _IN PROGRESS_**
-    - [ ] **Impliment game logic  _IN PROGRESS_**
+    - [ ] Create 3D assets and animations  _IN PROGRESS_
+    - [ ] Impliment game logic  _IN PROGRESS_
     - [ ] Create UI for the game
     - [ ] Create game servers 
     - [ ] Test and polish
