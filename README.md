@@ -5,11 +5,11 @@ My name is Jaden Alberding. I am a thrid year software engineering student curre
 
 ## Background
 
-I grew up in Calgary, Albert and thoughout my childhood I became very intersted in the ocean and video games. These dreams of living by the ocean and following a career with computers came true when I got accepted to the University of Victoria to become a engineer. This lifestyle change allowed to me to become the person I wanted to be. 
+I grew up in Calgary, Alberta and thoughout my childhood I became very intersted in the ocean and video games. These dreams of living by the ocean and following a career with computers came true when I got accepted to the University of Victoria to become a engineer. This lifestyle change allowed to me to become the person I wanted to be. 
 
 ## Academics
 
-My first year of University was very busy. Maintianing a work-life balance was the only way I was able to get through the first year. I took up weightlifting, made new friends and made the time to visit the ocean whenever I had the chance. The first year is also where I picked up coding and decided to specialize and become a software engineer.
+My first year of university was very busy. Maintianing a work-life balance was the only way I was able to get through the first year. I took up weightlifting, made new friends and made the time to visit the ocean whenever I had the chance. The first year is also where I picked up coding and decided to specialize and become a software engineer.
 
 ## Hobbies
 
