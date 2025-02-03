@@ -32,7 +32,7 @@ The following are my current and past projects I am working on:
   - First github personal project
   - Created Visuals in Java by making my own ASCII art for the cards
   - Developed the logic based on previous knowledge of the game
-  - Began developing a backend datatbase to save credit data for each player _IN PROGRESS_
+  - Began developing a backend database to save credit data for each player _IN PROGRESS_
 
 - Personal Website using HTML and CSS :open_file_folder: 
   - Began developing a website using HTML and CSS
@@ -40,31 +40,42 @@ The following are my current and past projects I am working on:
 
 - Battle Snake using Python :snake:
   - Participated in a Hackathon hosted by the University of Victoria
-  - Exposed to Python and REST API's to create a autonomous snake player following the game logic of Snake
+  - Exposed to Python and REST API's to create an autonomous snake player following the game logic of Snake
   - Placed 3rd in Semifinals 
 
 - P.L.A.I.T.U.S using Python :robot:
-  - Most abbitious project to date
+  - Most ambitious project to date
   - Began creating a neural network without using libraries to be able to day trade stocks
   - Goals of the project:
     - [X] Complete Neural Network
-    - [ ] Impliment reward system _IN PROGRESS_
-    - [X] Create a simultaion
+    - [ ] Implement reward system _IN PROGRESS_
+    - [X] Create a simulation
     - [ ] Train model on simulated data
-    - [ ] Use API's to recieve real time data
+    - [ ] Use API's to receive real time data
     - [ ] Test trained model on real data
     - [ ] Create a front end for the AI
-    - [ ] Link AI with a trading Broker and test with small account
+    - [ ] Link AI with a trading Broker and test with a small account
 
 - Swipe Fight using Unity :boxing_glove:
   - A mobile boxing game based on swipe direction inputs and combos from the user
     - [ ] Create 3D assets and animations  _IN PROGRESS_
-    - [ ] Impliment game logic  _IN PROGRESS_
+    - [ ] Implement game logic  _IN PROGRESS_
     - [ ] Create UI for the game
     - [ ] Create game servers 
     - [ ] Test and polish
     - [ ] Publish the game 
 
+- 7 Segment Digital Display :oncoming_automobile:
+  - A 7 Segmented display to determine what gear my car is in
+  - Uses custom hardware and software
+    - [X] Create LED sequence using python
+    - [ ] Order all electrical components _IN PROGRESS_
+    - [ ] Setup breadboard using components to determine layout
+    - [ ] Design and order a custom PLC 
+    - [ ] Re-program microcontroller
+    - [ ] Solder all components to PLC
+    - [ ] 3D print compartment
+    - [ ] Final assembly and installation
 
 - More to come...
 
