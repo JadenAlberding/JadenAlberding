@@ -1,19 +1,19 @@
 ### Hi there 👋
 Hello, 
 
-My name is Jaden Alberding. I am a thrid year software engineering student currently enrolled at the University of Victoria.
+My name is Jaden Alberding. I am a third year software engineering student at the University of Victoria.
 
 ## Background
 
-I grew up in Calgary, Alberta and thoughout my childhood I became very intersted in the ocean and video games. These dreams of living by the ocean and following a career with computers came true when I got accepted to the University of Victoria to become a engineer. This lifestyle change allowed to me to become the person I wanted to be. 
+I grew up in Calgary, Alberta, and throughout my childhood, I became very interested in the ocean and video games. These dreams of living by the ocean and following a career with computers came true when I got accepted to the University of Victoria to become an engineer. This lifestyle change allowed me to become the person I wanted to be. 
 
 ## Academics
 
-My first year of university was very busy. Maintianing a work-life balance was the only way I was able to get through the first year. I took up weightlifting, made new friends and made the time to visit the ocean whenever I had the chance. The first year is also where I picked up coding and decided to specialize and become a software engineer.
+My first year of university was busy. Maintaining a work-life balance was the only way I was able to get through the first year. I took up weightlifting, made new friends and made the time to visit the ocean whenever I had the chance. The first year is also where I picked up coding and decided to specialize and become a software engineer.
 
 ## Hobbies
 
-While Github is a place for code I would also like to share some of my other passions as well. I strongly believe that a balance between technology and the outdoors is neccessary for a fufilling and happy life. Some of my hobbies are as follows:
+While GitHub is a place for code, I would also like to share some of my other passions as well. I strongly believe that a balance between technology and the extra-curricular is necessary for a fulfilling and happy life. Some of my hobbies are:
 
 - Snowboarding
 - Car Mechanics (Modifying, Fixing etc)
@@ -51,7 +51,7 @@ The following are my current and past projects I am working on:
     - [ ] Implement reward system _IN PROGRESS_
     - [X] Create a simulation
     - [ ] Train model on simulated data
-    - [ ] Use API's to receive real time data
+    - [ ] Use API's to receive real-time data
     - [ ] Test trained model on real data
     - [ ] Create a front end for the AI
     - [ ] Link AI with a trading Broker and test with a small account
@@ -66,7 +66,7 @@ The following are my current and past projects I am working on:
     - [ ] Publish the game 
 
 - 7 Segment Digital Display :oncoming_automobile:
-  - A 7 Segmented display to determine what gear my car is in
+  - A 7-segment display to determine what gear my car is in
   - Uses custom hardware and software
     - [X] Create LED sequence using python
     - [ ] Order all electrical components _IN PROGRESS_
