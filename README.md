@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, 
 
-My name is Jaden Alberding. I am a third year software engineering student at the University of Victoria.
+My name is Jaden Alberding. I am a 3rd year software engineering student at the University of Victoria.
 
 ## Background
 
